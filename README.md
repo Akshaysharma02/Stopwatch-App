@@ -24,3 +24,6 @@ index.html file in your browser to view the application.
 
 # Contributions
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or features.
+
+# License:-
+This project is licensed under the Akshay Sharma License - .
